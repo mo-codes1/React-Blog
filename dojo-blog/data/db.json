@@ -1,4 +1,4 @@
-{ 
+{
   "blogs": [
     {
       "title": "My First Blog",
@@ -11,7 +11,30 @@
       "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted",
       "author": "mohammed",
       "id": 2
+    },
+    {
+      "title": "Groceries",
+      "body": "Milk, Eggs, Cereal",
+      "author": "mohammed",
+      "id": 3
+    },
+    {
+      "title": "ntgnt",
+      "body": "ntntnt",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "ntgnt",
+      "body": "ntntnt",
+      "author": "mario",
+      "id": 5
+    },
+    {
+      "title": "gh4ehb",
+      "body": "rhbhr",
+      "author": "mario",
+      "id": 6
     }
-    
   ]
 }
